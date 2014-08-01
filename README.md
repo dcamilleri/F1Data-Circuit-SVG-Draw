@@ -3,8 +3,6 @@
 
 Learn to create drawing effects on Circuit SVG with d3.js
 
-**For further informations, contact [Dorian Camilleri](mailto:dorian.camilleri@hetic.net)**
-
 HTML Structure
 ---------------------
     
@@ -12,7 +10,7 @@ HTML Structure
     <html lang="en">
       <head>
         <meta charset="UTF-8">
-        <title>Formula1 Data - SWG Drawing Tutorial by Dorian Camilleri</title>
+        <title>Formula1 Data - SWG Drawing Tutorial</title>
         <style>
           html {
             background-color: #1a1a1a;
